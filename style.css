@@ -1,0 +1,27 @@
+.equalheight{
+	height:120px;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.cyan{
+	background-color: cyan;
+}
+.purple{
+    background-color: purple;
+}
+.brown{
+	background-color: brown;
+}
+.container{
+	padding:0 15%;
+}
+.container-fluid{
+	padding:56px 0 0 0;
+}
